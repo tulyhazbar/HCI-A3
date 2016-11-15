@@ -35,7 +35,7 @@ The Physical structure of the game consists of two parts:
 I have laser cut the board ( see file board.ai ) and I have designed and 3D printed two handle that will be attached to each end of the board to make it easier for the user to hold ( see file handle.stl). I have also designed an enclosure for the photon and the circuit that has the Flora 9DoF sensor. The board will slide in this enclosure ( see picture 1). 
 The code which runs on the photon is the My_Game.ino. it controls the LED Strip based on the input of the motion sensor. 
 
-# - the hanger
+# - The hanger
 
 The game will be hanged on a board in the the lab when not in use. I have laser cut a circle that has some holes on it so the the game board can be instead in it. I have added a Proximity sensor and a buzzer to make this part interactive more interactive with the environment. Whenever someone gets close to the hanged game the buzzer will play Super Mario theme Song to grab the attention of the person who passed by the game. 
 I have used Arduino to control the circuit of the game holder. The reason why I used a separate controller is because I want these two parts to be complete separated specially that while playing the game the board will be take a way from the holder. 
