@@ -30,7 +30,7 @@ The Physical structure of the game consists of two parts:
 1) The game board that has the LED Strip fixed on.
 2) The hanger that holds the board when nobody is playing the game. 
     
-   # - The game board 
+# - The game board 
 
 I have laser cut the board ( see file board.ai ) and I have designed and 3D printed two handle that will be attached to each end of the board to make it easier for the user to hold ( see file handle.stl). I have also designed an enclosure for the photon and the circuit that has the Flora 9DoF sensor. The board will slide in this enclosure ( see picture 1). 
 The code which runs on the photon is the My_Game.ino. it controls the LED Strip based on the input of the motion sensor. 
