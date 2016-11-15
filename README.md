@@ -43,3 +43,5 @@ The code that controls the holder circuit is the Case.Ino.
 
 
 In general for this project i have used the housing and sliding techniques to join two objects.
+
+Here is the link to the video: https://youtu.be/dSXbMHEk5VQ
