@@ -1,5 +1,7 @@
 ### HCI-A3: Game 
-![img_20161115_123246](https://cloud.githubusercontent.com/assets/17105466/20318868/14303702-ab3a-11e6-8de3-d8ab9ccdcdf4.jpg) 
+
+![img_20161115_123225](https://cloud.githubusercontent.com/assets/17105466/20318913/46dfb2cc-ab3a-11e6-9bcb-406a71bc91d6.jpg)
+
 ## Components:
 1) Arduino 
 2) Photon 
@@ -20,8 +22,6 @@
 ## Circuits: 
 1) the game circuit (My_Game.Ino)
 2)The hanger circuit (Case.Ino)
-
-
 
 ### The Game: 
 The idea is to make an interactive game using a sensor that can measure the change in the orientation of a board that has a LED strip with one flashing LED fixed on it. This change in the board orientation will be reflected on the direction of motion of the flashing LED. The game is made for two players each one carries the board from one side (Left and Right). Each player will try to change the orientation if the board when the flashing LED moves towards his/her end. If the Flashing LED reaches to one of the ends it means the player who is on the opposite direction won the game.
