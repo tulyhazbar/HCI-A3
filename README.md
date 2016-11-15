@@ -1,5 +1,5 @@
 ### HCI-A3: Game 
-
+![img_20161115_123246](https://cloud.githubusercontent.com/assets/17105466/20318868/14303702-ab3a-11e6-8de3-d8ab9ccdcdf4.jpg) 
 ## Components:
 1) Arduino 
 2) Photon 
