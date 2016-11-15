@@ -2,19 +2,21 @@
 Componants:
 1) Arduino 
 2) Photon 
-3) Flora Motion Sensorjjhjjhjhj
+3) Flora Motion Sensos
 4) Proximity Senosr 
 5) Buzzer
-^) LED Strip vcgfgfghf
+^) LED Strip 
+
+
 
 
 3D Printed parts:
-1) Enclousre for the game circui
-2) two handle to make it easier to hold the board of the game. 
+1) Enclousre for the game circuit (Electronic Enclosure. stl )
+2) two handle to make it easier to hold the board of the game (handle.Stl) 
 
 Laser cut Parts 
-1) the board of the game (board.ai)
-2) the wall holder of the game (game holder.ai)
+1) the board of the game (game board.ai)
+2) the wall holder of the game (Hanger.ai)
 
 
 This repository contains the following files: 
