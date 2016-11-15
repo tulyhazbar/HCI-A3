@@ -1,15 +1,15 @@
 # HCI-A3
-Componants:
+Components:
 1) Arduino 
 2) Photon 
-3) Flora Motion Sensos
-4) Proximity Senosr 
+3) Flora Motion Sensors
+4) Proximity Sensor 
 5) Buzzer
 ^) LED Strip 
 
 
 3D Printed parts:
-1) Enclousre for the game circuit (Electronic Enclosure. stl )
+1) Enclosure for the game circuit (Electronic Enclosure. stl )
 2) two handle to make it easier to hold the board of the game (handle.Stl) 
 
 Laser cut Parts 
@@ -18,7 +18,7 @@ Laser cut Parts
 
 Circuits: 
 1) the game circuit (My_Game.Ino)
-2)The hanger cuircit (Case.Ino)
+2)The hanger circuit (Case.Ino)
 
 
 
@@ -31,21 +31,15 @@ The Physical structure of the game consists of two parts:
     
    - The game board 
 
-I have laser cut the board ( see file board.ai ) and I have designed and 3D printed two handle that will be attached to each end of the board to make it easier for the user to hold ( see file handle.stl). I have also designed an encluser for the photon and the circuit that has the Flora 9DoF sensor. The board will slide in this enclsour ( see picture 1). 
+I have laser cut the board ( see file board.ai ) and I have designed and 3D printed two handle that will be attached to each end of the board to make it easier for the user to hold ( see file handle.stl). I have also designed an enclosure for the photon and the circuit that has the Flora 9DoF sensor. The board will slide in this enclosure ( see picture 1). 
 The code which runs on the photon is the My_Game.ino. it controls the LED Strip based on the input of the motion sensor. 
 
 - the hanger
 
-The game will be hanged on a board in the the lab when not in use. I have laser cut a circle that has some holes on it so the the game board can be inseted in it. I have added a Proximity senosor and a buzzer to make this part interactive more interactive with the enviroment. Whenever soemone gets close to the hanged game the buzzer will play Super Mario theme Sonng to grab the attention of the person who passed by the game. 
-I have used Arduino to control the circuit of the game holder. The reasom why I used a seperate controler is because i wabt these two parts to be complete seprated specacilly that while playing teh game the board will be  take a way from the holder. 
+The game will be hanged on a board in the the lab when not in use. I have laser cut a circle that has some holes on it so the the game board can be instead in it. I have added a Proximity sensor and a buzzer to make this part interactive more interactive with the environment. Whenever someone gets close to the hanged game the buzzer will play Super Mario theme Song to grab the attention of the person who passed by the game. 
+I have used Arduino to control the circuit of the game holder. The reason why I used a separate controller is because I want these two parts to be complete separated specially that while playing the game the board will be take a way from the holder. 
 The code that controls the holder circuit is the Case.Ino. 
 
 
 
-In general for this project i have used the housing and sliding technquesd to join two objects. 
-
-
-
-  
-
-
+In general for this project i have used the housing and sliding techniques to join two objects.
