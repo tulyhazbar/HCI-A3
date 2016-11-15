@@ -8,8 +8,6 @@ Componants:
 ^) LED Strip 
 
 
-
-
 3D Printed parts:
 1) Enclousre for the game circuit (Electronic Enclosure. stl )
 2) two handle to make it easier to hold the board of the game (handle.Stl) 
@@ -18,11 +16,10 @@ Laser cut Parts
 1) the board of the game (game board.ai)
 2) the wall holder of the game (Hanger.ai)
 
+Circuits: 
+1) the game circuit (My_Game.Ino)
+2)The hanger cuircit (Case.Ino)
 
-This repository contains the following files: 
-- two codes (ino files )
-      I have separated 
-      
 
 
 The Game: 
